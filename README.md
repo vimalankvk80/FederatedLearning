@@ -1,2 +1,2 @@
 # FederatedLearning
-Federated Learning
+Federated Learning Courses
